@@ -1,0 +1,22 @@
+.container {
+    text-align: center;  
+}
+
+body h1 {
+    text-align: center;
+    color: aqua;
+    font-style: bold;
+    font-size: 60px;
+}
+
+#inputtext {
+    text-align: center;
+    color: purple;
+    height: 20px;
+    width: 200px;
+}
+
+#todobutton {
+    text-align: center;
+    cursor: pointer;
+}
